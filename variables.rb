@@ -10,6 +10,6 @@ cats = false
 name = "Tran"
 email = "tran@gmail.com"
 dogs = "the best"
-puts "this is so cool!"
-puts "I hope I am doing this right"
-puts "Yeay!!"
+puts name
+puts email
+puts dogs
