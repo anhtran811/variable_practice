@@ -13,3 +13,4 @@ dogs = "the best"
 puts name
 puts email
 puts dogs
+puts "I completed the Data Types Lesson"
